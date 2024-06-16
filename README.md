@@ -31,8 +31,8 @@
 
 ## 📈 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=[Your GitHub Username]&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=X-Mumin&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<a href="https://komarev.com/ghpvc/?username=[Your GitHub Username]&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=[Your GitHub Username]&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=X-Mumin&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=X-Mumin&style=for-the-badge">
 </a>
